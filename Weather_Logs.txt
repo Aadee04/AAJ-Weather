@@ -1,0 +1,143 @@
+
+12:57:39:
+Location : London, GB
+Weather: Clouds
+Temp: 9 degree C  
+Visibility: 10000m 
+Humidity: 82% 
+Sunrise: 07:34 AM
+Sunset: 05:55 PM
+Date: 21/10/2021
+
+
+13:12:38:
+Location : Joshua, US
+Weather: Clear
+Temp: 19 degree C  
+Visibility: 10000m 
+Humidity: 91% 
+Sunrise: 07:37 AM
+Sunset: 06:49 PM
+Date: 21/10/2021
+
+
+13:12:39:
+Location : Joshua, US
+Weather: Clear
+Temp: 19 degree C  
+Visibility: 10000m 
+Humidity: 91% 
+Sunrise: 07:37 AM
+Sunset: 06:49 PM
+Date: 21/10/2021
+
+
+13:13:02:
+Location : Lol, FR
+Weather: Clouds
+Temp: 13 degree C  
+Visibility: 10000m 
+Humidity: 85% 
+Sunrise: 08:20 AM
+Sunset: 07:02 PM
+Date: 21/10/2021
+
+
+13:13:27:
+Location : Mumbai, IN
+Weather: Smoke
+Temp: 33 degree C  
+Visibility: 3000m 
+Humidity: 40% 
+Sunrise: 06:34 AM
+Sunset: 06:11 PM
+Date: 21/10/2021
+
+
+13:22:20:
+Location : London, GB
+Weather: Clouds
+Temp: 8 degree C  
+Visibility: 10000m 
+Humidity: 77% 
+Sunrise: 07:34 AM
+Sunset: 05:55 PM
+Date: 21/10/2021
+
+
+13:26:56:
+Location : London, GB
+Weather: Clouds
+Temp: 8 degree C  
+Visibility: 10000m 
+Humidity: 77% 
+Sunrise: 07:34 AM
+Sunset: 05:55 PM
+Date: 21/10/2021
+
+
+13:35:07:
+Location : London, GB
+Weather: Clouds
+Temp: 8 degree C  
+Visibility: 10000m 
+Humidity: 77% 
+Sunrise: 07:34 AM
+Sunset: 05:55 PM
+Date: 21/10/2021
+
+
+13:50:47:
+Location : London, GB
+Weather: Clouds
+Temp: 8 degree C  
+Visibility: 10000m 
+Humidity: 77% 
+Sunrise: 07:34 AM
+Sunset: 05:55 PM
+Date: 21/10/2021
+
+
+13:50:57:
+Location : Mumbai, IN
+Weather: Smoke
+Temp: 33 degree C  
+Visibility: 3000m 
+Humidity: 46% 
+Sunrise: 06:34 AM
+Sunset: 06:11 PM
+Date: 21/10/2021
+
+
+13:51:26:
+Location : Mumbai, IN
+Weather: Smoke
+Temp: 33 degree C  
+Visibility: 3000m 
+Humidity: 46% 
+Sunrise: 06:34 AM
+Sunset: 06:11 PM
+Date: 21/10/2021
+
+
+14:00:19:
+Location : Gay, RU
+Weather: Clouds
+Temp: 3 degree C  
+Visibility: 10000m 
+Humidity: 50% 
+Sunrise: 07:40 AM
+Sunset: 06:01 PM
+Date: 21/10/2021
+
+
+14:00:44:
+Location : Lol, FR
+Weather: Clouds
+Temp: 13 degree C  
+Visibility: 10000m 
+Humidity: 73% 
+Sunrise: 08:20 AM
+Sunset: 07:02 PM
+Date: 21/10/2021
+
